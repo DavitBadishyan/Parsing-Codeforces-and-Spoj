@@ -34,19 +34,19 @@ def cfAll():
 # print(getname())
 
 #
-# cfAll()
-# cfrange(2, 11, 1, 11, 30)
-# cfrange(3, 11, 1, 11, 30)
-# cfrange(4, 11, 1, 11, 30)
-# cfrange(5, 11, 1, 11, 30)
-# cfrange(7, 11, 1, 11, 30)
+cfAll()
+cfrange(2, 11, 1, 11, 30)
+cfrange(3, 11, 1, 11, 30)
+cfrange(4, 11, 1, 11, 30)
+cfrange(5, 11, 1, 11, 30)
+cfrange(7, 11, 1, 11, 30)
 
 
-d = [
+# d = [
 
-]
+# ]
 
-cfrange(7, 12, 1, 12, 31)
+# cfrange(7, 12, 1, 12, 31)
 # for k in d:
 # print(getname(k))
 #     if getname(k)[:5] == 'Error':
